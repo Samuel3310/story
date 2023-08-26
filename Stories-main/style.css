@@ -169,6 +169,13 @@ body {
   transform-origin: left;
 }
 @media (max-width: 600px){
+  .stories-container{
+    width: 400px;}
+
+  .story-full {
+width: 70%;
+  
+  }
   .loader {
     width: 320px;
    top: 120px;
@@ -178,6 +185,8 @@ body {
   .loader::after {
       border-radius: 0px;
   }
+
+  
 }
 
 
