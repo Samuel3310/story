@@ -169,8 +169,7 @@ body {
   transform-origin: left;
 }
 @media (max-width: 600px){
-  .stories-container{
-    width: 400px;}
+ 
 
   .story-full {
 width: 70%;
